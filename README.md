@@ -35,13 +35,6 @@ To build a Random Forest model to detect fraudulent credit card transactions and
 - Feature importance plot
 - Saved model (.pkl)
 
-## Interview Questions Covered
-- Why accuracy is misleading in fraud detection?
-- What is Random Forest?
-- What is ensemble learning?
-- What is n_estimators?
-- What is SMOTE?
-
 ## Final Outcome
 This task demonstrates ensemble learning and handling imbalanced datasets for fraud detection.
 
